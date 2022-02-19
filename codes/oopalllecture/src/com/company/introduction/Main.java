@@ -1,8 +1,4 @@
-package com.company;
-
-import java.sql.Struct;
-import java.util.ArrayList;
-import java.util.Arrays;
+package com.company.introduction;
 
 public class Main {
     public static void main(String[] args) {

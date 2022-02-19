@@ -1,4 +1,4 @@
-package com.company;
+package com.company.introduction;
 
 public class WrapperExample {
     public static void main(String[] args) {
