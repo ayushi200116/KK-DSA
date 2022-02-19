@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/codes.iml" filepath="$PROJECT_DIR$/.idea/codes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lecture1(first java program)/lecture1(first java program).iml" filepath="$PROJECT_DIR$/lecture1(first java program)/lecture1(first java program).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lecture2(loops+conditionals+switch+nested)/lecture2(loops+conditionals+switch+nested).iml" filepath="$PROJECT_DIR$/lecture2(loops+conditionals+switch+nested)/lecture2(loops+conditionals+switch+nested).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lecture5(arrays)/lecture5(arrays).iml" filepath="$PROJECT_DIR$/lecture5(arrays)/lecture5(arrays).iml" />
-      <module fileurl="file://$PROJECT_DIR$/oopalllecture/oopalllecture.iml" filepath="$PROJECT_DIR$/oopalllecture/oopalllecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-java-program/first-java-program.iml" filepath="$PROJECT_DIR$/first-java-program/first-java-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops+conditionals+switchcase+nested/loops+conditionals+switchcase+nested.iml" filepath="$PROJECT_DIR$/loops+conditionals+switchcase+nested/loops+conditionals+switchcase+nested.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops/oops.iml" filepath="$PROJECT_DIR$/oops/oops.iml" />
     </modules>
   </component>
 </project>
